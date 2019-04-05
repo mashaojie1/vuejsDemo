@@ -105,7 +105,7 @@ public class Redis02Test {
         redisTemplate.boundListOps("name2").remove(0,"李小华");
         name2 = redisTemplate.boundListOps("name2").range(0, -1);
         System.out.println("name2(删除): " + name2);
-
+        System.out.println(111);
 
         // 删除key (五种数据类型通用)
         redisTemplate.delete("name2");
