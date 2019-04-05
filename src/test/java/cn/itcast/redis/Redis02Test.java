@@ -42,7 +42,7 @@ public class Redis02Test {
         //Object value = redisTemplate.boundValueOps("test").get();
         //    System.out.println(value);
         //    Date date = (Date)redisTemplate.boundValueOps("date").get();
-        //    System.out.println(date);
+        //      System.out.println(date);
 
 
         // 删除key (五种数据类型通用)
