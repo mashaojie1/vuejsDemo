@@ -82,8 +82,12 @@ public class Redis02Test {
         // 设置值
         // 1. 右压栈 (后添加的元素放在后面)
         redisTemplate.boundListOps("name1").rightPush("李大华");
+        redisTemplate.boundListOps("name1").rightPush("李大华");
         redisTemplate.boundListOps("name1").rightPush("李中华");
         redisTemplate.boundListOps("name1").rightPush("李小华");
+        redisTemplate.boundListOps("name1").rightPush("李小华");
+        redisTemplate.boundListOps("name1").rightPush("李小华");
+        redisTemplate.boundListOps("name1").rightPush("9");
 
         // 获取值(从左 至 右)
         // 第一个参数：开始的索引号
