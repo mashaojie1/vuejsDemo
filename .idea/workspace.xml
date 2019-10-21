@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="802dc962-d843-47cd-9ed1-ef75cab77be9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,8 +22,10 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
               <folding>
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
                 <element signature="e#802#803#0" expanded="true" />
                 <element signature="e#849#850#0" expanded="true" />
                 <element signature="e#930#931#0" expanded="true" />
@@ -77,52 +78,7 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="vuejsDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejsDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vuejsDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejsDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vuejsDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejsDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vuejsDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejsDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vuejsDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejsDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vuejsDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejsDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571634675407</updated>
-      <workItem from="1571634676827" duration="1194000" />
+      <workItem from="1571634676827" duration="2575000" />
     </task>
     <task id="LOCAL-00001" summary="msj_01">
       <created>1571635600840</created>
@@ -172,11 +128,25 @@
       <option name="project" value="LOCAL" />
       <updated>1571635940205</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="msj_01">
+      <created>1571636181229</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571636181229</updated>
+    </task>
+    <task id="LOCAL-00004" summary="msj_01">
+      <created>1571636980054</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571636980054</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1194000" />
+    <option name="totallyTimeSpent" value="2575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -187,15 +157,15 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -229,8 +199,10 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
           <folding>
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
             <element signature="e#802#803#0" expanded="true" />
             <element signature="e#849#850#0" expanded="true" />
             <element signature="e#930#931#0" expanded="true" />
