@@ -20,7 +20,6 @@ public class UserController {
 
     @RequestMapping("/findAll")
     public List<User> query(){
-        System.out.println(userService.queryUserList());
         return userService.queryUserList();
     }
 
