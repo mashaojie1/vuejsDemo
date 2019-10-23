@@ -187,6 +187,13 @@
       <plugin>
         <groupId>org.apache.tomcat.maven</groupId>
         <artifactId>tomcat7-maven-plugin</artifactId>
+        <configuration>
+          <url>http://localhost:8080</url>
+          <path>/</path>
+          <server>tomcat</server>
+          <username>admin</username>
+          <password>admin</password>
+        </configuration>
         <version>2.2</version>
       </plugin>
     </plugins>
